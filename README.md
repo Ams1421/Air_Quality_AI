@@ -20,9 +20,7 @@ Air pollution causes ~7 million premature deaths per year (WHO). Traditional mon
 | `app.py` | **Single-file complete app** — Full ML pipeline + Flask backend + embedded HTML/CSS/JS frontend |
 | `requirements.txt` | Python dependencies (install with `pip install -r requirements.txt`) |
 | `README.md` | This file |
-| `report.html` | Self-contained HTML report with all 9 charts embedded (open in any browser) |
-| `report.docx` | Word document report with embedded charts — for submission |
-| `report.pdf` | PDF version of the report — for submission |
+| `Report.pdf` | PDF version of the report — for submission |
 | `data/air_quality_dataset.csv` | Input dataset |
 | `models/` | Saved trained models (.pkl) |
 | `outputs/` | Generated chart PNGs (9 files) |
