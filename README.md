@@ -39,12 +39,8 @@ air_quality_ai_project/
 │
 ├── RamDasChilakalapudi_AirQualityProject.py  # [SUBMIT] Full ML pipeline (Steps 1-7)
 ├── requirements.txt                           # [SUBMIT] Python dependencies
-├── RamDasChilakalapudi_ProjectReport.docx     # [SUBMIT] IEEE-format project report
+├── RamDasChilakalapudi_ProjectReport.pdf     # [SUBMIT] IEEE-format project report
 ├── README.md                                  # [SUBMIT] This file
-│
-├── app.py                       # Flask web dashboard (run to view live UI)
-├── report.html                  # Self-contained HTML report (open in browser)
-├── report.pdf                   # PDF version of the IEEE report
 │
 ├── data/
 │   └── air_quality_dataset.csv  # UCI Air Quality dataset (94 rows, 16 columns)
