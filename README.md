@@ -37,10 +37,10 @@ Air pollution causes ~7 million premature deaths per year (WHO). Traditional mon
 ```
 air_quality_ai_project/
 │
-├── RamDasChilakalapudi_AirQualityProject.py  # [SUBMIT] Full ML pipeline (Steps 1-7)
-├── requirements.txt                           # [SUBMIT] Python dependencies
-├── RamDasChilakalapudi_ProjectReport.pdf     # [SUBMIT] IEEE-format project report
-├── README.md                                  # [SUBMIT] This file
+├── RamDasChilakalapudi_AirQualityProject.py  # Full ML pipeline (Steps 1-7)
+├── requirements.txt                           # Python dependencies
+├── RamDasChilakalapudi_ProjectReport.pdf     # IEEE-format project report
+├── README.md                                  # This file is for overview of project 
 │
 ├── data/
 │   └── air_quality_dataset.csv  # UCI Air Quality dataset (94 rows, 16 columns)
