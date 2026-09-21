@@ -81,19 +81,10 @@ python RamDasChilakalapudi_AirQualityProject.py
 
 This runs all 7 steps: data loading, EDA (5 charts), feature engineering, AQI classification (4 models), CO regression (4 models), feature importance, and summary. Saves trained models to `models/` and charts to `outputs/`.
 
-### 3. Launch Interactive Dashboard (optional)
-
-```bash
-python app.py
-```
-
 Open **http://127.0.0.1:5000** in your browser.
 
 To skip retraining and load saved models directly:
 
-```bash
-python app.py serve
-```
 
 The dashboard has 5 tabs:
 - **Overview** — dataset stats + key charts
