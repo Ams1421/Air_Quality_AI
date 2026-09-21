@@ -23,7 +23,7 @@ Air pollution causes ~7 million premature deaths per year (WHO). Traditional mon
 |---|---|---|
 | `RamDasChilakalapudi_AirQualityProject.py` | `.py` | **Complete ML pipeline** - all 7 steps: data loading, EDA, feature engineering, classification, regression, feature importance, summary |
 | `requirements.txt` | `.txt` | Python dependencies |
-| `RamDasChilakalapudi_ProjectReport.docx` | `.docx` | Full IEEE-format project report with embedded charts and screenshots |
+| `RamDasChilakalapudi_ProjectReport.pdf` | `.pdf` | Full IEEE-format project report with embedded charts and screenshots |
 | `README.md` | `.md` | This file - project overview, setup instructions, results |
 
 ---
